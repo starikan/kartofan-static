@@ -1,1 +1,1 @@
-"# kartofan-static" 
+"# kartofan.info" 
